@@ -4,6 +4,10 @@
 This Power BI dashboard provides an in-depth analysis of sales performance for a chocolate manufacturing company. It highlights key business metrics, trends, and regional breakdowns to help stakeholders monitor performance and make data-driven decisions.
 
 ---
+To see the full dashboard - [(https://app.powerbi.com/reportEmbed?reportId=17d4ce0d-fafd-4450-be1f-e9bccb6bc5f6&autoAuth=true&ctid=2bf33822-97d4-4084-be41-3efd59ceadd4)]
+
+![dashboard image](DashboardImage.png)
+
 
 ## Key Metrics Tracked
 
@@ -61,5 +65,3 @@ This dashboard helps in:
 
 ## Last Updated
 June 25, 2025
-
-!(dashboard image)
