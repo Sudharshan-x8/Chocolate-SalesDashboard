@@ -5,6 +5,9 @@ This Power BI dashboard provides an in-depth analysis of sales performance for a
 
 ---
 
+## Case Study 
+[View Case Study](https://drive.google.com/file/d/1rWiaNJ3Y4xHOBhvzv9Xu3knFCD9tor2G/view?usp=drivesdk)
+
 ![dashboard image](DashboardImage.png)
 
 
